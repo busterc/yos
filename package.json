@@ -1,0 +1,27 @@
+{
+  "name": "yos",
+  "version": "1.0.0",
+  "description": "lists available yeoman generators and subgenerators",
+  "repository": "busterc/yos",
+  "files": [
+    "index.js"
+  ],
+  "bin": "index.js",
+  "keywords": [
+    "yo",
+    "yeoman",
+    "generators",
+    "generator",
+    "subgenerators",
+    "subgenerator",
+    "sub-generators",
+    "sub-generator",
+    "list",
+    "available"
+  ],
+  "author": "Buster Collings <busterc@gmail.com> (https://about.me/buster)",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-environment": "^1.5.2"
+  }
+}
