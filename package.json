@@ -1,7 +1,7 @@
 {
   "name": "yos",
-  "version": "1.0.0",
-  "description": "lists available yeoman generators and subgenerators",
+  "version": "1.0.1",
+  "description": "lists your installed yeoman generators and subgenerators",
   "repository": "busterc/yos",
   "files": [
     "index.js"
