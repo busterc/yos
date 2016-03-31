@@ -1,5 +1,5 @@
 # yos
-> lists available yeoman generators and subgenerators
+> lists your installed yeoman generators and subgenerators
 
 ## Install
 
