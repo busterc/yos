@@ -37,7 +37,7 @@ function createGeneratorList(env, apps) {
   }, {});
 
   if (!Object.keys(generators).length) {
-    return '\n  Couldn\'t find any generators, did you install any? Troubleshoot issues by running\n\n  $ yo doctor';
+    return '\n Couldn\'t find any generators. Have you installed any?\n\n Troubleshoot issues by running:\n $ yo doctor\n';
   }
 
   return Object.keys(generators).map(generator => {
